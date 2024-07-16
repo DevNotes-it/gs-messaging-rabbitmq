@@ -1,3 +1,11 @@
+== Docker Tutorial: Java Messaging with RabbitMQ
+
+This repository is a fork of the original https://github.com/spring-guides/gs-messaging-rabbitmq project. 
+It is tailored for my Docker and CI/CD tutorials, providing a comprehensive guide on implementing Java messaging with RabbitMQ using Docker. Special thanks to the Spring Guides team for their valuable resources.
+
+Explore the original Spring Guides at: https://github.com/spring-guides
+
+---
 :toc:
 :icons: font
 :source-highlighter: prettify
@@ -9,15 +17,6 @@
 :network_container: guide-rabbit
 :omit_native_build: y
 
-
-== Docker Tutorial: Java Messaging with RabbitMQ
-
-This repository is a fork of the original https://github.com/spring-guides/gs-messaging-rabbitmq project. 
-It is tailored for my Docker and CI/CD tutorials, providing a comprehensive guide on implementing Java messaging with RabbitMQ using Docker. Special thanks to the Spring Guides team for their valuable resources.
-
-Explore the original Spring Guides at: https://github.com/spring-guides
-
----
 
 This guide walks you through the process of creating a Spring Boot application that publishes and subscribes to a RabbitMQ AMQP server.
 

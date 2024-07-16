@@ -12,10 +12,10 @@
 
 == Docker Tutorial: Java Messaging with RabbitMQ
 
-This repository is a fork of the original [gs-messaging-rabbitmq](https://github.com/spring-guides/gs-messaging-rabbitmq) project. 
+This repository is a fork of the original https://github.com/spring-guides/gs-messaging-rabbitmq project. 
 It is tailored for my Docker and CI/CD tutorials, providing a comprehensive guide on implementing Java messaging with RabbitMQ using Docker. Special thanks to the Spring Guides team for their valuable resources.
 
-Explore the original Spring Guides at: [spring-guides](https://github.com/spring-guides).
+Explore the original Spring Guides at: https://github.com/spring-guides
 
 ---
 

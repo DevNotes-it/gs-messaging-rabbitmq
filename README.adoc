@@ -32,7 +32,7 @@ Before you can build your messaging application, you need to set up a server to 
 
 To run RabbitMQ prepare `compose.yml` for RabbitMQ (https://hub.docker.com/_/rabbitmq) and start container with `docker compose up`
 
-In original tutorial spring-boot-docker was used, you should now remove the `spring-boot-docker-compose` dependency from the Maven or Gradle build file.
+In original tutorial spring-boot-docker was used, so now you should remove the `spring-boot-docker-compose` dependency from the Maven or Gradle build file.
 You will also need to add configuration to an `application.properties` file, as described in greater detail in the <<_preparing_to_build_the_application>> section.
 
 [[initial]]
